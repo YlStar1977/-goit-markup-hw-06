@@ -579,10 +579,10 @@ body {
 
   color: var(--color-white);
 }
-.button-conteiner {
+/* .button-conteiner {
   position: relative;
   display: block;
-}
+} */
 
 .button-subscribe {
   display: flex;
@@ -615,7 +615,7 @@ body {
 }
 
 .icon-subscribe {
-  position: absolute;
+  /* position: absolute; */
   fill: var(--color-white);
 }
 
