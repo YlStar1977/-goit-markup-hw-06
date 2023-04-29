@@ -579,17 +579,13 @@ body {
 
   color: var(--color-white);
 }
-/* .button-conteiner {
-  position: relative;
-  display: block;
-} */
 
 .button-subscribe {
   display: flex;
   width: 165px;
   height: 40px;
-
-  padding: 8px 64px 8px 24px;
+  gap: 16px;
+  padding: 8px 24px 8px 24px;
   margin-left: 24px;
 
   font-family: var(--primary-front);
