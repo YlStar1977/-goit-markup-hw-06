@@ -543,7 +543,7 @@ body {
   height: 80px;
 }
 .form-subscribe {
-  display: block;
+  display: flex;
   width: 100%;
 }
 .titel-subscribe {
