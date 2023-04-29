@@ -860,6 +860,7 @@ body {
 
   transition-property: border;
   transition-duration: 250ms;
+  transition-timing-function: cubic-bezier(0.4, 0.2, 1);
 }
 .modal-form-input:focus {
   border: 1px solid var(--color-iris);
@@ -885,6 +886,7 @@ body {
 
   transition-property: fill;
   transition-duration: 250ms;
+  transition-timing-function: cubic-bezier(0.4, 0.2, 1);
 
   pointer-events: none;
 }
@@ -904,6 +906,7 @@ body {
 
   transition-property: border;
   transition-duration: 250ms;
+  transition-timing-function: cubic-bezier(0.4, 0.2, 1);
 }
 
 .modal-form-message:focus {
@@ -944,6 +947,7 @@ body {
 
   transition-property: background-color, background-image;
   transition-duration: 250ms;
+  transition-timing-function: cubic-bezier(0.4, 0.2, 1);
 }
 .modal-form-agreement-box:checked {
   background-color: var(--color-ocean);
@@ -988,6 +992,7 @@ body {
 
   transition-property: background-color;
   transition-duration: 250ms;
+  transition-timing-function: cubic-bezier(0.4, 0.2, 1);
 }
 .modal-btn-close:hover,
 .modal-btn-close:focus {
