@@ -571,6 +571,14 @@ body {
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
   border-radius: 4px;
 }
+.input-subscribe::placeholder {
+  font-family: var(--primary-front);
+
+  font-size: 12px;
+  line-height: 2;
+
+  color: var(--color-white);
+}
 
 .button-subscribe {
   position: relative;
