@@ -582,7 +582,7 @@ body {
 
 .button-subscribe {
   position: relative;
-  display: block;
+  display: flex;
   width: 165px;
   height: 40px;
 
