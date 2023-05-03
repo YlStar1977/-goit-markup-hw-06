@@ -119,7 +119,7 @@ body {
   height: 4px;
   border-radius: 2px;
   display: block;
-  bottom: -3px;
+  bottom: -4px;
 }
 .header-nav.current::after,
 .header-nav.current:hover::after,
@@ -899,6 +899,7 @@ body {
   height: 120px;
   resize: none;
   margin-bottom: 16px;
+  padding: 16px;
 
   outline: transparent;
   border-radius: 4px;
